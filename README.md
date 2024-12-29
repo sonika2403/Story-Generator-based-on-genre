@@ -1,6 +1,6 @@
-# Interactive Story Generator
+# Creative Story Generator
 
-An AI-driven interactive story generator that creates engaging stories based on user input and genre selection.
+An AI-driven creative story generator that creates engaging stories based on user input and genre selection.
 
 ## Features
 - Users can provide an initial story prompt.
