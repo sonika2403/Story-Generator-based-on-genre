@@ -10,6 +10,6 @@ An AI-driven creative story generator that creates engaging stories based on use
 
 ## Requirements
 - Python 3.x
-- Jupyter Notebook (optional for running the code)
+- Google Colab (Can be used in jupyter notebook as well)
 - Hugging Face Transformers library
 - PyTorch or TensorFlow (depending on the model you choose)
