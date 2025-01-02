@@ -12,4 +12,4 @@ An AI-driven creative story generator that creates engaging stories based on use
 - Python 3.x
 - Google Colab (Can be used in jupyter notebook as well)
 - Hugging Face Transformers library
-- PyTorch or TensorFlow (depending on the model you choose)
+- GPT-Neo Model
